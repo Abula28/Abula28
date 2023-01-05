@@ -1,4 +1,8 @@
-Hello.  I am Nikoloz🌟and I am Front-end Web Developer 💻 with experience in the following technologies:
+<h1>Nikoloz Abuladze Front-End Web Developer</h1>
+ 
+ 
+ 
+ Hello.  I am Nikoloz🌟and I am Front-end Web Developer 💻 with experience in the following technologies:
 
 
   -HTML: I have experience working with HTML to structure and organize content on the web. 📋
@@ -13,6 +17,12 @@ Hello.  I am Nikoloz🌟and I am Front-end Web Developer 💻 with experience in
 
 
 I am dedicated to creating user-friendly, visually appealing websites and applications that meet the needs of my clients. With a strong foundation in these web development technologies, I am able to quickly understand and implement new projects. I am always looking to improve my skills and stay up-to-date with the latest industry trends. 🚀
+
+
+
+<h1>contact me</h1>
+
+<a href="https://www.instagram.com/abulaa77/" target="_blank">Instagram</a>
 <!---
 Abula28/Abula28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
