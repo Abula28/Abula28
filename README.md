@@ -23,6 +23,10 @@ I am dedicated to creating user-friendly, visually appealing websites and applic
 <h1>contact me</h1>
 
 <a href="https://www.instagram.com/abulaa77/" target=”_blank”>Instagram</a>
+<br>
+<a href="https://mail.google.com/mail/u/0/#search/nikaabuladze28%40gmail.com">Gmail</a>
+<br>
+<a href="https://www.facebook.com/profile.php?id=100011452353777">Facebook</a>
 <!---
 Abula28/Abula28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
