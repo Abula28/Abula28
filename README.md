@@ -24,6 +24,7 @@ I am dedicated to creating user-friendly, visually appealing websites and applic
 
 <h1>contact me</h1>
 
+<a href="https://www.linkedin.com/in/nikoloz-abuladze-21304a21a/">Linkedin</a>
 <a href="https://www.instagram.com/abulaa77/" target=”_blank”>Instagram</a>
 <br>
 <a href="https://mail.google.com/mail/u/0/#search/nikaabuladze28%40gmail.com">Gmail</a>
