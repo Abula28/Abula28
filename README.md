@@ -12,6 +12,8 @@
   -SCSS/SASS: I am skilled in using preprocessor languages like SCSS and SASS to write efficient, organized stylesheets. 💅
 
   -JavaScript: I have experience using JavaScript to add interactive elements and functionality to websites. 🔥
+  
+  -Vue.js: I also have experience using Vue.js to build dynamic, reactive user interfaces. 🛠
 
   -Git: I am familiar with version control systems like Git, and I use it to collaborate on projects and track changes to my code. 🧑‍💻
 
