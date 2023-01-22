@@ -33,9 +33,9 @@ I am dedicated to creating user-friendly, visually appealing websites and applic
 <a href="https://www.facebook.com/profile.php?id=100011452353777">Facebook</a>
 
 
-## Stats
+<!-- ## Stats -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6&hide=jupyter%20notebook&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Abula28/Abula28)
 <!---
 Abula28/Abula28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
