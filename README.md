@@ -28,7 +28,7 @@ I am dedicated to creating user-friendly, visually appealing websites and applic
 <br>
 <a href="https://www.instagram.com/abulaa77/" target=”_blank”>Instagram</a>
 <br>
-<a href="https://mail.google.com/mail/u/0/#search/nikaabuladze28%40gmail.com">Gmail</a>
+<a href="https://mail.google.com/mail/u/0/#search/n.abuladzee7%40gmail.com">Gmail</a>
 <br>
 <a href="https://www.facebook.com/profile.php?id=100011452353777">Facebook</a>
 
