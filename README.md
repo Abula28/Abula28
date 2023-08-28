@@ -10,7 +10,7 @@
 
 🚀 <b>Passionate Learner:</b> I've charted my own learning path, delving deep into web development's intricacies. <br>
 ⚛️ <b>React Aficionado:</b> I love architecting UIs, managing state, and optimizing performance with React.<br>
-🌐 <b>User-Centric Approach:</b> I create web projects that engage users through seamless design and functionality.<br>
+🌐 <b>User-Centric Approach:</b> I create web projects that engage users through seamless design and functionality.<br><br>
 <b>Skills Snapshot:</b>
 
 JavaScript, TypeScript, React, HTML5, CSS3, SASS, Node.js, RESTful APIs, Git
