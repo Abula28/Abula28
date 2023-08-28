@@ -1,4 +1,4 @@
-<h1>Nikoloz Abuladze Front-End Web Developer</h1>
+<h1>Nikoloz Abuladze Web Developer</h1>
  
  
  
