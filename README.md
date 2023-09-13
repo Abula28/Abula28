@@ -14,7 +14,7 @@
 <br>
 <b style="font-size: 15px">Skills Snapshot:</b>
 
-JavaScript, TypeScript, React, HTML5, CSS3, SASS, Node.js, RESTful APIs, Git
+JavaScript, TypeScript, React, Next.js, NextAuth.js, Node.js, Express, MongoDB, RESTful APIs, Axios, HTML5, CSS3, SASS, Bootstrap, Tailwind, Git
 
 <b style="font-size: 15px">Next Steps:</b>
 
