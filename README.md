@@ -1,44 +1,34 @@
-<h1>Nikoloz Abuladze Web Developer</h1>
- 
- 
- 
-<b style="font-size: 15px">Self-Taught Web Developer | JavaScript/TypeScript & React Enthusiast</b>
+# 👋 Hi, I'm Nikoloz Abuladze — Full Stack Developer
 
-👋 Hey there! I'm a self-taught web developer with a strong command of JavaScript and TypeScript. My expertise lies in crafting captivating web experiences using React.
+🎯 Self-taught and university-educated, I'm a passionate Web Developer with over a year of hands-on experience building responsive, accessible, and performance-optimized web applications.
 
-<b style="font-size: 15px">Why Me:</b>
+I specialize in crafting modern UIs and seamless digital experiences using **React**, **Next.js**, and **TypeScript**, with a solid grasp of back-end tech like **Node.js**, **Express**, and **MongoDB**.
 
-🚀 <b style="font-size: 15px">Passionate Learner:</b> I've charted my own learning path, delving deep into web development's intricacies. <br>
-⚛️ <b style="font-size: 15px">React Aficionado:</b> I love architecting UIs, managing state, and optimizing performance with React.<br>
-🌐 <b style="font-size: 15px">User-Centric Approach:</b> I create web projects that engage users through seamless design and functionality.<br>
-<br>
-<b style="font-size: 15px">Skills Snapshot:</b>
+---
 
-JavaScript, TypeScript, React, Next.js, NextAuth.js, Node.js, Express, MongoDB, RESTful APIs, Axios, HTML5, CSS3, SASS, Bootstrap, Tailwind, Git
+## 💡 What I Bring
 
-<b style="font-size: 15px">Next Steps:</b>
+- 🔧 **Real-World Experience** – Built and shipped full-stack projects like [Ride Gudauri](https://ridegudauri.com), [Onten](https://onten.ge), and [Nordom](https://nordom.com) with production-level quality.
+- ⚛️ **React/Next.js Expertise** – Strong focus on state management (Zustand, React Query), component reuse, and performance.
+- 🤝 **Team-First Mindset** – Experienced in Agile/Scrum, Git-based collaboration, and writing maintainable code through PR reviews.
+- 🔍 **Detail-Oriented** – From UI polish to performance tuning, I aim for pixel-perfect results and smooth user interactions.
 
-Ready to embrace fresh challenges and collaborations in web development. Let's connect and craft incredible digital journeys together!
+---
 
-<i>"Crafting the web, one pixel at a time."</i>
+## 🛠 Tech Stack
 
+**Front-End**: React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS, Tailwind, Bootstrap, Ant Design  
+**Back-End**: Node.js, Express.js, PHP, Laravel, REST APIs, JWT/OAuth  
+**Database**: MongoDB, MySQL, PostgreSQL  
+**Tools**: Git, GitHub, Vite, Webpack, Swagger, Postman, CI/CD, Jest, Cypress, Jira  
 
+## 🔎 What’s Next?
 
-<h1>contact me</h1>
+I'm always open to new challenges, collaborations, and opportunities to build impactful web products. Let’s connect and create something great!
 
-<a href="https://www.linkedin.com/in/nikoloz-abuladze-21304a21a/" tagret="_blank">Linkedin</a>
-<br>
-<a href="https://www.instagram.com/abulaa77/" tagret="_blank">Instagram</a>
-<br>
-<a href="https://mail.google.com/mail/u/0/#search/n.abuladzee7%40gmail.com" tagret="_blank">Gmail</a>
-<br>
-<a href="https://www.facebook.com/profile.php?id=100011452353777" tagret="_blank">Facebook</a>
+📫 **Email**: [n.abuladzee7@gmail.com](mailto:n.abuladzee7@gmail.com)  
+🌐 **Portfolio**: [abula-portfolio.vercel.app](https://abula-portfolio.vercel.app)  
+💼 **LinkedIn**: [Nikoloz Abuladze](https://www.linkedin.com/in/nikoloz-abuladze-21304a21a/)
 
+> *"Crafting the web, one pixel at a time."*
 
-<!-- ## Stats -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Abula28/Abula28) -->
-<!---
-Abula28/Abula28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
